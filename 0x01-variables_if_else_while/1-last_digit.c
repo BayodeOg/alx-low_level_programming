@@ -1,12 +1,14 @@
+
+
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: Pritn statements based on the last digit of the random number.
- * Return: Always 0 (Success)
+ * Description: Print statements based on the last digit of the random number.
+ * Return: 0
  */
-
 int main(void)
 {
 	int n;
